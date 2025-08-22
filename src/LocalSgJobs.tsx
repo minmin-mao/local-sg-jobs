@@ -381,8 +381,8 @@ export default function LocalSgJobsLanding() {
           <div className="mt-8 flex flex-wrap items-center justify-between gap-4 border-t pt-6 text-xs text-neutral-500">
             <p>© 2025 Local SG Jobs. All rights reserved.</p>
             <div className="flex gap-4">
-              <a className="hover:underline">Privacy Policy</a>
-              <a className="hover:underline">Terms of Use</a>
+              <p className="hover:underline">Privacy Policy</p>
+              <p className="hover:underline">Terms of Use</p>
             </div>
           </div>
         </div>
